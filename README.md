@@ -1,4 +1,4 @@
-# ⚡ Startercode-Full-Stack [React] [Express] [Typescript] [Tailwind] [MongoDB]
+# ⚡ Startercode-Full-Stack 
 
 > Your minimalist productivity companion — simple, fast, and distraction-free.
 
@@ -21,9 +21,8 @@ No clutter. Just focus, tick, and move on.
 
 **Frontend**  
 - React  
-- Tailwind CSS  
-- Framer Motion *(optional for animation)*
-
+- Tailwind CSS
+  
 **Backend**  
 - Express  
 - MongoDB  
