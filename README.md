@@ -1,6 +1,3 @@
-Of course! Here’s the **complete `README.md`** as **raw markdown code** you can copy and add directly into your project:
-
-````markdown
 # ⚡ StarterCode-Full-Stack
 
 > A minimal full-stack starter template built with modern tools to help you kick-start your next web project.  
@@ -98,9 +95,4 @@ Feel free to open a pull request or issue.
 
 ✨ Happy Coding! ✨
 
-```
 
----
-
-💡 Let me know if you’d also like me to add **screenshots**, **GIFs**, or even a **live demo** section to make this README even better.
-```
