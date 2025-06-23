@@ -71,21 +71,6 @@ npm start
 
 ---
 
-## 🎯 Features
-
-✅ Scalable file structure
-✅ TypeScript setup for both client and server
-✅ Tailwind CSS preconfigured for styling
-✅ Ready-to-use MongoDB and Express setup
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
