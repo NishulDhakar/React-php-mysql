@@ -9,14 +9,13 @@
 
 ### 🎨 Frontend
 - **React** — for building user interfaces
-- **Tailwind CSS** — for utility-first styling
 
 ### 🧠 Backend
-- **Express** — minimalist web framework
-- **MongoDB** — NoSQL database
+- **Php** — 
+- **Mysql** — SQL database
 
 ### 📝 Language
-- **TypeScript** — for type safety and better developer experience
+- **TypeScript & Php** — for type safety and better developer experience
 
 ---
 
@@ -34,7 +33,6 @@ cd StarterCode-Full-Stack
 
 ```bash
 cd backend
-npm install
 ```
 
 #### Frontend
@@ -59,14 +57,14 @@ PORT=5000
 
 ```bash
 cd backend
-npm run dev
+php -S localhost:3001
 ```
 
 #### Frontend
 
 ```bash
 cd frontend
-npm start
+npm run dev
 ```
 
 ---
