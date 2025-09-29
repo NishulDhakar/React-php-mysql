@@ -23,8 +23,8 @@
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/NishulDhakar/StarterCode-Full-Stack.git
-cd StarterCode-Full-Stack
+git clone https://github.com/NishulDhakar/React-php-mysql.git
+cd React-php-mysql
 ````
 
 ### 2️⃣ Install dependencies
